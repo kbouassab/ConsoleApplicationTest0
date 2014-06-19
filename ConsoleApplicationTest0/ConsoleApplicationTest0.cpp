@@ -6,7 +6,7 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	int x=10;
+	int x=100;
 	int y=10;
 	return 0;
 }
